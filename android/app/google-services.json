@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999197546167",
+    "project_id": "hayaka-2a0b7",
+    "storage_bucket": "hayaka-2a0b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999197546167:android:95cf98af30b67f3a389f32",
+        "android_client_info": {
+          "package_name": "com.example.hayaka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999197546167-mg6evtp9201r16h2m7o0qotom4v68979.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpSBIwtubuDRFKZKbkHXXDoPcngcZ09I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999197546167-mg6evtp9201r16h2m7o0qotom4v68979.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
